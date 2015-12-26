@@ -1,0 +1,8 @@
+{
+	"aws": {
+		"region": "eu-central-1",
+		"accessID": "AKIAIF4GZTPEDGZR53MQ",
+		"secretKey": "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",
+		"queueUrl": "https://sqs.eu-central-1.amazonaws.com/911372968127/smartboards"
+	}
+}
